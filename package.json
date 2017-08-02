@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "trigger a new Jenkins build after webpack builds",
   "main": "index.js",
-  "scripts": {
-    "test": "node index.js --path ./dist --crumbfield Jenkins-Crumb --crumb 3509d9e463d3cf0181c216da614f31b9 --name dz-io-web-app-develop.zip --url http://labike:d97a75ce2595f54e237d15f255ac8b57@115.29.241.33:7000/job/%E7%AB%A0%E9%B1%BCIO%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%EF%BC%88%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%EF%BC%89/build"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/linayanse/webpack-jenkins.git"
