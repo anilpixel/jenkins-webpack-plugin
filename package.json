@@ -1,6 +1,6 @@
 {
   "name": "jenkins-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "trigger a new Jenkins build after webpack builds",
   "main": "index.js",
   "repository": {
