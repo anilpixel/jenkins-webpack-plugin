@@ -1,11 +1,11 @@
 {
-  "name": "webpack-jenkins",
+  "name": "jenkins-webpack-plugin",
   "version": "0.0.1",
   "description": "trigger a new Jenkins build after webpack builds",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linayanse/webpack-jenkins.git"
+    "url": "git+https://github.com/linayanse/jenkins-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -14,9 +14,9 @@
   "author": "Ezios",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/linayanse/webpack-jenkins/issues"
+    "url": "https://github.com/linayanse/jenkins-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/linayanse/webpack-jenkins#readme",
+  "homepage": "https://github.com/linayanse/jenkins-webpack-plugin#readme",
   "dependencies": {
     "archiver": "^2.0.0",
     "request": "^2.81.0",
